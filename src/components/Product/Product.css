@@ -1,0 +1,24 @@
+.product{
+    display: flex;
+    border-bottom: 1px solid lightgray;
+    margin-right: 5px;
+    padding-bottom: 5px;
+}
+.product-details{
+    padding-left: 10px;
+}
+.product-title{
+    color:blue;
+    font-weight: 400;
+}
+.primary-btn{
+    width:200px;
+    height:28px;
+    background-color: rgb(228, 181, 64);
+    border: 1px solid gray;
+    border-radius: 3px;
+    cursor: pointer;
+}
+.star-color{
+    color:gold;
+}

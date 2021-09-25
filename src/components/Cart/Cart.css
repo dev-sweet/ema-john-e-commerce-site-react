@@ -1,0 +1,18 @@
+.cart-details{
+    text-align:center;
+    padding: 0 10px;
+}
+.cart-table{
+    width: 60%;
+}
+.cart-table tr{
+    display: flex;
+    justify-content: space-between;
+    font-size: 14px;
+}
+.total-price{
+    font-size: 22px;
+    color:#b12704;
+    font-weight: bold;
+    padding-top: 10px;
+}
